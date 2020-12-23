@@ -1,0 +1,9 @@
+**/*.svg
+**/*.sh
+
+node_modules
+build/*.js
+src/assets
+public/tinymce
+public/pdfjs
+dist
